@@ -1,0 +1,17 @@
+{
+  "name": "clawd-mods",
+  "owner": { "name": "mixmin0197" },
+  "metadata": { "description": "Claude Code mods: a dreaming Claude and a pixel crab that crawls on its replies" },
+  "plugins": [
+    {
+      "name": "dream",
+      "source": "./plugins/dream",
+      "description": "Claude dreams while you sleep and tells you its dreams when you wake"
+    },
+    {
+      "name": "clawd",
+      "source": "./plugins/clawd",
+      "description": "A pixel crab that crawls line by line on Claude's latest reply"
+    }
+  ]
+}

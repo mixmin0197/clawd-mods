@@ -1,0 +1,10 @@
+{
+  "name": "clawd",
+  "version": "1.0.0",
+  "description": "一只像素小螃蟹在 Claude 最新的回复上一行一行往下爬：思考时跑，调用工具时挖，出错时摔跤，做梦时睡觉。",
+  "author": { "name": "mixmin0197" },
+  "repository": "https://github.com/mixmin0197/clawd-mods",
+  "license": "MIT",
+  "dependencies": ["dream"],
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dream",
+  "version": "1.0.0",
+  "description": "Claude 在你睡着时做梦：跨项目翻看白天和过往的对话与记忆，自由联想，醒来后告诉你梦见了什么。只做梦，不改任何东西。",
+  "author": { "name": "mixmin0197" },
+  "repository": "https://github.com/mixmin0197/clawd-mods",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
